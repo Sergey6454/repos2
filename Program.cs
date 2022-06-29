@@ -21,7 +21,10 @@ namespace ConsoleApp3
                      "6-Делить В на А\n");
                 int rez = int.Parse(Console.ReadLine());
 
-
+                if(rez == 1)
+                {
+                   a = int.Parse(Console.ReadLine());
+                }
 
 
 
