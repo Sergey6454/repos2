@@ -52,7 +52,10 @@ namespace ConsoleApp3
 
 
 
-
+                if(rez == 3)
+                {
+                    Console.WriteLine(a + b);
+                }
 
 
 
