@@ -41,7 +41,10 @@ namespace ConsoleApp3
 
 
 
-
+                if(rez == 2)
+                {
+                    b = int.Parse(Console.ReadLine());
+                }
 
 
 
