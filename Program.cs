@@ -99,7 +99,10 @@ namespace ConsoleApp3
 
 
 
-
+                if(rez == 5)
+                {
+                    Console.WriteLine(a * b);
+                }
 
 
 
